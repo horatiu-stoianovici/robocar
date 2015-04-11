@@ -2,7 +2,7 @@ import socket
 import thread
 from carcontrol import CarController
 
-TCP_PORT = 5005
+TCP_PORT = 6005
 BUFFER_SIZE = 3
 controller = CarController()
 
